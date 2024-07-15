@@ -16,6 +16,11 @@
   margin: 16px;
 }
 
+.cards .cards-card-body-highlight {
+  text-transform: uppercase;
+  font-size: 32px;
+}
+
 .cards .cards-card-image {
   line-height: 0;
 }
